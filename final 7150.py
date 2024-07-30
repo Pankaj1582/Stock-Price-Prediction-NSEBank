@@ -435,10 +435,5 @@ predictions_df = pd.DataFrame({
 print(predictions_df)
 
 
-# In[8]:
-
-
-get_ipython().system('jupyter --version')
-
 
 # # 
